@@ -17,7 +17,6 @@
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
    
-   <img src="image/ocean.jpeg" height="500"; width="400">
    
   </body>
 </html>
