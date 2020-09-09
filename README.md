@@ -16,7 +16,9 @@
     <a href="index.html">Home</a> 
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
-   
+
+<center>
+<h1 style="font-family:verdana;">Home</h1>
 <img src=ocean1.jpeg>
   </body>
 </html>
