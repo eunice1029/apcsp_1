@@ -11,7 +11,6 @@
 </body>
 </html>
 
-<!doctype html>
 <html lang="en">
   <head bgcolor="white">
     <a href="index.html">Home</a> 
