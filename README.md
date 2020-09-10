@@ -19,6 +19,8 @@
   </body>
 <center>
  <img src=ocean1.jpeg>
+ <side>
+ <img src=ocean2.jpeg>
 </html>
 
 
