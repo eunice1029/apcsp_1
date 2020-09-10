@@ -19,6 +19,8 @@
   </body>
 <center>
  <img src=ocean1.jpeg>
+ <top>
+ <left>
  <side>
  <img src=ocean2.jpeg width:150;height:150
 </html>
