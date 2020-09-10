@@ -20,7 +20,7 @@
 <center>
  <img src=ocean1.jpeg>
  <side>
- <img src=ocean2.jpeg>
+ <img src=ocean2.jpeg width:150;height:150
 </html>
 
 
